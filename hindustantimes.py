@@ -20,6 +20,7 @@ def htnews():
                     pass
                 else:
                     writer.writerow(news)
+                    
         f.close()
         df = pd.read_csv('Latest_News.csv')
         df.drop('Link', axis = 1, inplace = True)
