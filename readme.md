@@ -1,4 +1,4 @@
-Python script that can fetch latest news headlines from Hindustantimes Latest news
+#Python script that can fetch latest news headlines from Hindustantimes Latest news
 
 Follow these simple steps to extract the news :-
 
